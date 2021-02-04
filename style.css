@@ -1,0 +1,282 @@
+
+.zagol-left {
+  text-align: left;
+}
+
+.zagol-right {
+  text-align: right;
+}
+
+.zagol-mid {
+  text-align: center;
+}
+
+.zagol li {
+  display: inline;
+}
+
+.col-left {
+padding-top: 30%;
+}
+
+.body-2 h2 {
+  padding-bottom: 30%;
+  text-align: left;
+}
+
+.body-1-price {
+  padding-top: 20%;
+  padding-left: 5%;
+}
+
+.body-1-mm {
+  padding-top: 60%;
+}
+
+.all {
+  padding-top: 5%;
+}
+
+.container .body-3 {
+  padding-top: 5%;
+}
+
+.body-3 h2 {
+  padding-top: 25%;
+}
+
+.body-3 p {
+  padding-top: 10%;
+}
+
+.body-3 button {
+  margin-top: 10%;
+}
+
+
+.body-3 .ol {
+  padding-left: 80%;
+}
+
+.body-4 {
+  padding-bottom: 10%;
+}
+
+.body-4 .photo1 {
+  margin-bottom: 6%;
+}
+
+.body-4 .photo3 {
+  margin-left: 22%;
+}
+
+.footer li {
+  list-style-type: none;
+}
+
+.footer li:first-child {
+  margin-bottom: 20%;
+}
+
+.footer {
+  background-color: #444240;
+  color: #FFFFFF;
+}
+
+.footer li:first-child {
+  margin-top: 25%;
+}
+a{
+  color: black;
+  padding-right: 12%;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+}
+.header-mid img{
+  padding-right: 10%;
+}
+
+.maneopis h1{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 60px;
+}
+
+.maneopis h2{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+}
+
+.maneopis p{
+  font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+
+color: rgba(27, 26, 23, 0.82);
+}
+
+.body-2 h2{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 43px;
+color: #1B1A17;
+}
+
+.opis-1 h2{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 43px;
+}
+
+.opis-1 p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+color: #444240;
+}
+
+.opis-2 h2{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 43px;
+color: #1B1A17;
+}
+
+.opis-2 p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 27px;
+
+color: #444240;
+
+}
+
+.opis-3 h2{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.07em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.opis-3 li{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.75);
+}
+
+.opis-4 h2{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.07em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.opis-4 li{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.75);
+}
+
+.opis-5 h2{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.07em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.opis-5 li{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.75);
+}
+
+.logot li{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.75);
+}
+
+.name{
+  font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+
+color: rgba(27, 26, 23, 0.82);
+}
+.name p{
+ font-family: Prata;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+
+color: rgba(27, 26, 23, 0.82);
+}
+.podr{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+color: #1B1A17;
+
+}
+
+.btn{
+  color: black;
+}
